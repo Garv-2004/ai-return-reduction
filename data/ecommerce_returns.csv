@@ -1,0 +1,9 @@
+user_id,product_id,category,price,size,rating,previous_returns,purchase_frequency,returned
+1,101,Clothing,1200,M,4,2,10,1
+2,102,Shoes,2500,L,5,0,5,0
+3,103,Clothing,1500,S,3,4,8,1
+4,104,Electronics,5000,NA,4,1,2,0
+5,105,Shoes,2200,M,2,3,7,1
+6,106,Clothing,1800,L,5,0,12,0
+7,107,Accessories,900,S,4,1,6,0
+8,108,Clothing,2000,M,3,5,9,1
